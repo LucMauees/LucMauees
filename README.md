@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
-<p align="center"><b>Desenvolvedor Backend · Estudante de Ciência da Computação · Belém, PA 🇧🇷</b></p>
+<h1 align="center">Olá, eu sou o Lucas </h1>
+<p align="center"><b>Desenvolvedor Backend · Estudante de Ciência da Computação</b></p>
 
 <p align="center">
   <!-- Troque pelos seus links -->
@@ -89,7 +89,7 @@ Ferramenta que categoriza gastos a partir de exportações CSV, detecta assinatu
 
 ## 🎮 Fora do código
 
-- 🖨️ Impressão 3D com uma Bambu Lab A1 Mini (apelidada de **Lisbeth**) e aprendendo modelagem no **Onshape** — Gridfinity, peças funcionais e, um dia, um gabinete de PC inteiro
+- 🖨️ Impressão 3D com uma Bambu Lab A1 Mini e aprendendo modelagem no **Onshape** — Gridfinity, peças funcionais e, um dia, um gabinete de PC inteiro
 - 🏠 Automação residencial
 - 💻 Alterno entre Windows, macOS e Linux (Fedora + Bash)
 
