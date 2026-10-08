@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Lucas 👋
 
-<!--
-**LucMauees/LucMauees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **CESUPA** (7th semester), based in Brazil.
+I enjoy distributed systems, algorithms, and building small tools around local LLMs.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000?style=flat&logo=ollama&logoColor=white)
+
+## Featured
+
+- **Distributed Code Analysis System**: parallel Python code analysis (code smells, unit tests, docs) using `multiprocessi
+ng` workers and local LLMs via Ollama, with retries and result aggregation.
+- **Graph Theory**: experiments with Python and NetworkX.
+- **Data Structures**: implementations in Java.
+
+## Currently
+
+- Learning distributed and parallel programming
+- Exploring local LLM tooling
+
+## Contact
+
+[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:lucasmauees@gmail.com)
