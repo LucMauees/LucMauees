@@ -15,7 +15,6 @@
 -  Ex-**desenvolvedor Full Stack na PD Case** (jan/2022 – set/2023), onde participei da migração de um **sistema core banking legado** (Java desktop) para web com **Spring Boot + Angular**
 -  Estudando **AWS** rumo à certificação e explorando **integração de IA/ML** em aplicações backend
 -  Montando um laboratório de **segurança defensiva com Wazuh**
--  Aberto a oportunidades de **estágio em desenvolvimento** (remoto ou em Belém)
 
 ##  Stack
 
